@@ -1,0 +1,16 @@
+---
+title: "hello_R"
+output: html_document
+date: "2024-01-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+language <- "R"
+message <- "Hello World!"
+paste(language, "says:", message)
+
