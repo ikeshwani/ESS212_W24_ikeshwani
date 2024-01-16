@@ -19,8 +19,8 @@ function S1_rec(n)
     return S   
 end
 
-S1_iter(0)
-S1_rec(0)
+S1_iter(10)
+S1_rec(10)
 
 #julia algorithm for O1, which is a function that adds odd numbers consecutively
 #so 1+3+5+7+9+...
