@@ -42,7 +42,7 @@ function O1_rec(n)
     O = 1;
     if n>1
         O = n^2
-    elseif  n=1
+    elseif  n==1
         O = 1
     end
     return O
