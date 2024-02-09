@@ -1,5 +1,0 @@
-language = "julia"
-
-message = "Hello World!"
-
-print(language , " says: ", message)
